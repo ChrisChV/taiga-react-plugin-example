@@ -1,0 +1,23 @@
+.hello-plugin-task-panel {
+    background: #2ecc71;
+    color: #fff;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.hello-plugin-react-panel {
+    background: #2ecc71;
+    color: #fff;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 4px;
+    font-family: sans-serif;
+}
+
+.hello-plugin-react-panel strong {
+    display: block;
+    margin-bottom: 6px;
+}
